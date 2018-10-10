@@ -3,6 +3,9 @@
 ## Configuration Server
 [Spring-Ms-Config-Server](Spring-Ms-Config-Server) is an example project for Configuration Server
 
+## Configuration Client
+[Spring-Ms-Config-Client](Spring-Ms-Config-Client) is an example project for Configuration Client
+
 ## Steps followed to create configuration server
 1. Created Springboot app with Spring cloud config server starter
 2. Created git repository for Configuration files: [DemoConfigRepo](../DemoConfigRepo)

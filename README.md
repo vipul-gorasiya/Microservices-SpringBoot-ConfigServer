@@ -8,7 +8,7 @@
 
 ## Steps followed to create configuration server
 1. Created Springboot app with Spring cloud config server starter
-2. Created git repository for Configuration files: [DemoConfigRepo](../DemoConfigRepo)
+2. Created git repository for Configuration files: [DemoConfigRepo](https://github.com/vipul-gorasiya/DemoConfigRepo)
 3. Added '@EnableConfigServer' on application class to enable configuration server nature on application
 4. Provided Configuration file repository URL in properties file
 

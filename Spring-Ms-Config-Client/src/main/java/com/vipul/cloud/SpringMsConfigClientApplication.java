@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 @SpringBootApplication
-// To enable refresh of config properties being accessed from config server
+//To enable refresh of config properties being accessed from config server
 @RefreshScope
 public class SpringMsConfigClientApplication {
 

@@ -23,7 +23,7 @@
 2. Start Congif server as Spring Boot application
 3. Start Config Client as Spring boot application
 3. To test config server directly, access following URLS:
-	. http://localhost:9999/config-demo-client-development.properties
-	. http://localhost:9999/config-demo-client-development.yml
-	. http://localhost:9999/config-demo-client-development.json
+	- http://localhost:9999/config-demo-client-development.properties
+	- http://localhost:9999/config-demo-client-development.yml
+	- http://localhost:9999/config-demo-client-development.json
 4. To test config client, access http://localhost:7777/greeting
